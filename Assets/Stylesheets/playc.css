@@ -1,0 +1,18 @@
+.hotdog p {
+    background: orange;
+}
+
+.hotdog .mustard {
+    background:yellow;
+}
+
+.btn {
+    font-size: 16px;
+}
+.btn-happy {
+    background:rgba(20, 80, 155, 0.5);
+}
+.btn-overwhelmed {
+    background: #f56798;
+}
+
